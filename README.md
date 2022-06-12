@@ -14,6 +14,8 @@
 
 當畫面中有人，但卻沒有正確佩戴口罩，會呈現藍色框框
 
+使用：執行 $ python face_dectetion.py
+
 Training model 從這裡下載：
 https://drive.google.com/file/d/1LGLsZXhoWAtv7sJGlLWXPsDpyhIuSf34/view?usp=sharing
 
